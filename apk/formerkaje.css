@@ -1,0 +1,59 @@
+background-image: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);
+.namalengkap{
+	margin-left: 450px;
+
+}
+.pekerjaan{
+	margin-left: 450px;
+	vertical-align: middle;
+}
+.bagaimana{
+	margin-left: 450px;
+	margin-top: 20px;
+	vertical-align: middle;
+}
+.urusan{
+	margin-left: 450px;
+	margin-top: 20px;
+}
+.submit{
+	margin-top: 20px;
+}
+.instansi{
+	margin-left: 450px;
+	margin-top: -20px;
+}
+.button{
+	
+	margin-top: 20px;
+}
+.alamatinstansi{
+	margin-top: 10px;
+	margin-left: 450px;
+}
+.nohp{
+	margin-left: 450px;
+	margin-top: 10px;
+}
+.we{
+	margin-left: 80px;
+}
+.kunjungan{
+	margin-top: -20px;
+}
+.judul{
+	font-family: "Dancing+Script";
+}
+.baton{
+    margin-top: 500px;
+
+}
+
+.btn1 {
+    background: blue;
+    width: 200px;
+    height: 100px;
+    border: 1px solid #ffffff;
+    color: white;
+    text-decoration: none;
+}
